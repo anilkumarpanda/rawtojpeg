@@ -1,8 +1,9 @@
+#utf-8
 from PIL import Image
 import rawpy
 import os
 
-print('Converting .ARW to Jpeg')
+print('Converting .ARW to Jpeg..!!')
 
 # List of directories from where the images needs to be converted .
 
